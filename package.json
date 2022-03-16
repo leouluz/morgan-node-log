@@ -1,0 +1,12 @@
+{
+  "name": "morgan-node-log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "morgan-body": "^2.6.6"
+  }
+}
